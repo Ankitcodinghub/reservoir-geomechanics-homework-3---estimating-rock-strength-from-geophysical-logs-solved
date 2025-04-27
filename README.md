@@ -1,0 +1,1 @@
+# reservoir-geomechanics-homework-3---estimating-rock-strength-from-geophysical-logs-solved
